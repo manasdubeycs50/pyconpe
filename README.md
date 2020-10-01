@@ -10,4 +10,4 @@ Softwate utilizados
 
 Instalação
 ----------
-- make setup
+- make setup please provide some information in English
